@@ -9024,7 +9024,7 @@ h3 {
         .project .text span {
           color: rgba(255, 255, 255, 0.8); } }
   .project:hover .overlay, .project:focus .overlay {
-    opacity: .4; }
+    opacity: .75; }
   .project:hover .text, .project:focus .text {
     opacity: 1; }
 
